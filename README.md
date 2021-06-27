@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with android modularization
 - 💬 Ask me about GIS related field
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Ey
+- ⚡ Fun fact: I'm not fun
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alf-Anas&theme=vue&layout=compact">
