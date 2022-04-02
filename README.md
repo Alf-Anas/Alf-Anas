@@ -12,3 +12,5 @@
 - ⚡ Fun fact: I'm not fun
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alf-Anas&theme=vue&layout=compact">
+
+<img src="https://komarev.com/ghpvc/?username=Alf-Anas&color=brightgreen&style=for-the-badge" align="right" />
