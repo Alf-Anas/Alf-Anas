@@ -3,7 +3,7 @@
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alf-Anas&show_icons=true&hide_border=true&theme=dracula" align="right">
 
 - 🔭 I’m currently working on something related to Social and GIS apps
-- 🌱 I’m currently learning backend adn devops
+- 🌱 I’m currently learning backend and devops
 - 👯 I’m looking to collaborate on something useful and helping other people
 - 🤔 I’m looking for help with apps modularization
 - 💬 Ask me about GIS related field
